@@ -9,7 +9,7 @@ Track every package from every platform — Amazon, Flipkart, Myntra, Ajio, Purp
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#license)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey?style=for-the-badge)](#)
 
-**[📲 Get the App](#-your-app-link-here)**
+**[📲 Get the App](app-release.apk)**
 
 </div>
 
@@ -46,7 +46,7 @@ DELHIVERY follows a clean, minimal **dark-mode-first** UI:
 | | |
 |---|---|
 | 🖤 Background | Near-black, high contrast |
-| 💚 Accent | Signature lime-yellow highlights |
+| 💚 Accent | Signature white-Grey highlights |
 | 🧊 Cards | Soft rounded, subtle-border shipment cards |
 | 📊 Timeline | Elegant dot-and-line progress visualization |
 
@@ -86,7 +86,7 @@ flutter run
 
 <div align="center">
 
-### 👉 [YOUR APP LINK HERE](#) 👈
+### 👉 app-release.apk(#) 👈
 
 </div>
 
