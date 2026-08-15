@@ -9,7 +9,7 @@ Track every package from every platform — Amazon, Flipkart, Myntra, Ajio, Purp
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#license)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey?style=for-the-badge)](#)
 
-**[📲 Get the App](app-release.apk)**
+**[![Download APK](https://img.shields.io/badge/Download-APK-D4FF4C?style=for-the-badge&logo=android&logoColor=black)](https://github.com/yourusername/delhivery/app-release.apk)**
 
 </div>
 
@@ -86,7 +86,7 @@ flutter run
 
 <div align="center">
 
-### 👉 app-release.apk(#) 👈
+### 👉 [![Download APK](https://img.shields.io/badge/Download-APK-D4FF4C?style=for-the-badge&logo=android&logoColor=black)](https://github.com/yourusername/delhivery/app-release.apk)(#) 👈
 
 </div>
 
