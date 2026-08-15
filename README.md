@@ -9,7 +9,7 @@ Track every package from every platform — Amazon, Flipkart, Myntra, Ajio, Purp
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#license)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey?style=for-the-badge)](#)
 
-**[![Download APK](https://img.shields.io/badge/Download-APK-D4FF4C?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Alan-m-varghese/Delhivery/blob/b66ada9fb6f6736b64c92643717ff60f3be23bce/app-release.apk)**
+**[![Download APK](https://img.shields.io/badge/Download-APK-D4FF4C?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Alan-m-varghese/Delhivery/releases/latest/download/Delhivery.apk)**
 
 </div>
 
@@ -86,7 +86,7 @@ flutter run
 
 <div align="center">
 
-### 👉 [![Download APK](https://img.shields.io/badge/Download-APK-D4FF4C?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Alan-m-varghese/Delhivery/blob/b66ada9fb6f6736b64c92643717ff60f3be23bce/app-release.apk) 👈
+### 👉 [![Download APK](https://img.shields.io/badge/Download-APK-D4FF4C?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Alan-m-varghese/Delhivery/releases/latest/download/Delhivery.apk) 👈
 
 </div>
 
